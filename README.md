@@ -16,7 +16,7 @@ http://localhost:8080/api/v1/people
 São necessários os seguintes pré-requisitos para a execução do projeto:
 
 * Java 8 ou versões superiores.
-* Maven
+* Gradle
 * Intellj IDEA Community Edition ou sua IDE favorita.
 * Controle de versão GIT instalado na sua máquina.
 * Conta no GitHub para o armazenamento do seu projeto na nuvem.
