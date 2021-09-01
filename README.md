@@ -6,10 +6,10 @@ Para executar o projeto no terminal, digite o seguinte comando:
 mvn spring-boot:run 
 ```
 
-Após executar o comando acima, basta apenas abrir o seguinte endereço e visualizar a execução do projeto:
+Após executar o comando acima, basta apenas abrir o seguinte endereço e visualizar os endpoins do projeto e sua documentação no Swagger:
 
 ```
-http://localhost:8080/api/v1/people
+http://localhost:8080/swagger-ui.html
 ```
 
 
@@ -31,3 +31,4 @@ Abaixo, seguem links dos principais recursos usados no projeto.
 * [Site oficial do GitHub](http://github.com/)
 * [Documentação oficial do Lombok](https://projectlombok.org/)
 * [Referência para o padrão arquitetural REST](https://restfulapi.net/)
+* [Documentação de APIs utilizando SpringFox](https://tjf.totvs.com.br/docs/swagger-springfox)
