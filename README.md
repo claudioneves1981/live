@@ -24,6 +24,7 @@ São necessários os seguintes pré-requisitos para a execução do projeto:
 * Gradle
 * Intellj IDEA Community Edition ou sua IDE favorita.
 * Controle de versão GIT instalado na sua máquina.
+* GitHub Cli instalado na sua maquina.
 * Conta no GitHub para o armazenamento do seu projeto na nuvem.
 
 Abaixo, seguem links dos principais recursos usados no projeto.
@@ -34,6 +35,7 @@ Abaixo, seguem links dos principais recursos usados no projeto.
 * [Site oficial do Spring Initialzr, para setup do projeto](https://start.spring.io/)
 * [Site oficial do GIT](https://git-scm.com/)
 * [Site oficial do GitHub](http://github.com/)
+* [Github Cli](https://cli.github.com/)
 * [Documentação oficial do Lombok](https://projectlombok.org/)
 * [Referência para o padrão arquitetural REST](https://restfulapi.net/)
 * [Documentação de APIs utilizando SpringFox](https://tjf.totvs.com.br/docs/swagger-springfox)
