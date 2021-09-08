@@ -1,5 +1,10 @@
 <h2>Digital Innovation: Live Code Dio. Bootcamp Santander</h2>
 
+Para clonar o projeto(com GitHub Cli)
+```
+gh repo clone claudioneves1981/live
+```
+
 Para executar o projeto no terminal, digite o seguinte comando:
 
 ```shell script
