@@ -8,7 +8,7 @@ gh repo clone claudioneves1981/live
 Para executar o projeto no terminal, digite o seguinte comando:
 
 ```shell script
-mvn spring-boot:run 
+./gradlew bootRun
 ```
 
 Após executar o comando acima, basta apenas abrir o seguinte endereço e visualizar os endpoins do projeto e sua documentação no Swagger:
